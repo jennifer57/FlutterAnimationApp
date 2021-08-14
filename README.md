@@ -1,4 +1,4 @@
-# FlutterAnimationsApp
+# Technische Dokumentation
 
 ### Setup
 
