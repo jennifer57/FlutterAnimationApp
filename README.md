@@ -1,4 +1,4 @@
-# Technische Dokumentation
+# Technical Documentation
 
 ### Setup
 
